@@ -8,6 +8,7 @@ export const ExpButton = (props) => {
       <style jsx>
         {`
           .btn__cn {
+            cursor:pointer;
             outline: 0;
             border-radius: 50px;
             font-size: 0.8em;
